@@ -1,2 +1,0 @@
-# HAvoc
-HacK subdomain
